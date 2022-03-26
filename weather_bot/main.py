@@ -1,6 +1,6 @@
 import requests
 import telebot
-import config
+import config # the file config.py is not publicly available
 from config import weather_key
 from telebot import types
 
